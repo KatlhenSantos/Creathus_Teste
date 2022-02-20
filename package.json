@@ -1,0 +1,14 @@
+{
+  "name": "teste-correios",
+  "version": "1.0.0",
+  "description": "Teste automatizado dos correios",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Katlhen Santos",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
